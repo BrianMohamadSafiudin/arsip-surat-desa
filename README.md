@@ -2,6 +2,9 @@
 
 Aplikasi arsip surat digital untuk Desa Karangduren, Kecamatan Pakisaji yang memungkinkan perangkat desa untuk mengarsipkan dan mengelola surat-surat resmi dalam format PDF.
 
+- File Database terdapat di folder `database/arsip_surat_desa.sql`
+- Tampilan dapat dilihat di folder `screenshots/` atau pada bagian akhir README.
+
 ## 🏛️ Tentang Desa Karangduren
 
 **Desa Karangduren** adalah sebuah desa yang terletak di Kecamatan Pakisaji yang membutuhkan sistem pengarsipan digital untuk mengelola surat-surat resmi yang dibuat oleh perangkat desa. Aplikasi ini dikembangkan atas permintaan **Pak Syaiful** selaku Sekretaris Desa.
